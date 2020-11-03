@@ -5,7 +5,7 @@ include "convert.php";
 ?>
 <body>
     <center>
-    <h2>Vig Cipher</h2>
+    <h2>Vigenere Cipher</h2>
     </center>
     <table width="600" align="center">
     <tr><td width="50%" valign="top">
